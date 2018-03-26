@@ -1,0 +1,20 @@
+canvas {
+	background-color:#ebebeb;
+}
+
+.margin-top {
+	margin-top: 20px;
+}
+
+table {
+	width: 100%;
+}
+td {
+	width: 200px;
+	padding: 0 20px;
+	border: 1px solid #ebebeb;
+}
+
+td.first {
+	width: 100px;
+}
