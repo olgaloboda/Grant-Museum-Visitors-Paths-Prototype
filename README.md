@@ -9,3 +9,7 @@ By clicking "Save data", the prototype generates the .json document with visitor
 
 ## Ethics
 This prototype does not collect any data that can threaten the anonymity of visitors.
+
+![Screenshot](https://github.com/olgaloboda/Grant-Museum-Visitors-Paths-Prototype/blob/master/Prototype.png)
+
+## Available at https://olgaloboda.github.io/Grant-Museum-Visitors-Paths-Prototype/.
