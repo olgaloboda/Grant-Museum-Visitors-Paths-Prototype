@@ -49,3 +49,7 @@ td {
 	color: red;
 	text-decoration: underline;
 }
+
+td.first {
+	width: 100px;
+}
