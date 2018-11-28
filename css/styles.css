@@ -1,0 +1,51 @@
+canvas {
+	background-color:#ebebeb;
+}
+
+.margin-top {
+	margin-top: 20px;
+}
+
+table {
+	width: 100%;
+}
+td {
+	padding-top: 5px;
+	padding-left: 15px;
+	width: 100px;
+    border: 1px solid #ebebeb;
+    height: 30px;
+}
+
+.first {
+	width: 30px;
+    padding: 0px;
+    text-align: center;
+}
+
+.header, .footer {
+	font-size: 14px;
+	font-weight:bold;
+	margin-bottom: 10px;
+}
+
+#description {
+	border: 1px solid #ebebeb;
+	margin-top: 20px;
+	overflow: scroll;
+	height: 620px;
+	padding: 10px;
+	font-size: 12px;
+}
+.remove {
+	color: red;
+	font-weight: normal;
+	margin-left: 20px;
+	text-decoration: underline;
+}
+.stoplink {
+	font-size: 14px;
+	font-weight: normal;
+	color: red;
+	text-decoration: underline;
+}
