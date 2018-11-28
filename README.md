@@ -3,7 +3,7 @@ This desktop prototype was created to conduct observational studies at the UCL G
 
 ## Functionality
 The user can log data of several visitors (one at a time) by marking their path on the canvas. 
-In the window on the right, the system displays the visitor number, the number of their stops and the start time of browsing a certain cabinet.
+In the window on the right, the system displays the visitor number, (x,y) coordinates on the canvas, the number of visitors' stops and the start time of browsing a certain cabinet.
 In case several visitors are tracked on one canvas, the paths are marked different colours that correspond to the colour of "Visitor #" in the right window. The user can also clear the canvas and retrieve data by clicking "Show all" as well as remove logged data by clicking "Remove" next to "Visitor #".
 By clicking "Save data", the prototype generates the .json document with visitors' points of interest, time spent next to the objects, time spent in the museum.
 
